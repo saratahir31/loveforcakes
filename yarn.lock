@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@framer/graz.android-kit@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.framer.com/@framer/graz.android-kit/-/@framer/graz.android-kit-1.1.0.tgz#2110fccba31c5f4f76b00b92479cee715f51965c"
+  integrity sha1-IRD8y6McX092sAuSR5zucV9Rllw=
+
 "@types/prop-types@*":
   version "15.7.0"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.0.tgz#4c48fed958d6dcf9487195a0ef6456d5f6e0163a"

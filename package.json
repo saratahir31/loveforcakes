@@ -11,5 +11,8 @@
 	"framer": {
 		"id": "19019bd0-eca6-4779-b705-cac8f2ddff15"
 	},
-	"author": "Sara Tahir"
+	"author": "Sara Tahir",
+	"dependencies": {
+		"@framer/graz.android-kit": "^1.1.0"
+	}
 }
